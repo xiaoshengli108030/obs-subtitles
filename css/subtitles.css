@@ -17,9 +17,8 @@ div#subtitle {
     bottom: 75vh;
     left: 0px;
     background: transparent;
-    font-family: "San Francisco",
-        "Helvetica Neue", "Helvetica",
-        Arial, Sans-Serif;
+    font-family: 'Noto Emoji', sans-serif;
+font-family: 'Noto Sans TC', sans-serif;
     font-size: calc( 3vh + 3vw );
     font-weight: 200;
     line-height: calc( 4vh + 3vw );
